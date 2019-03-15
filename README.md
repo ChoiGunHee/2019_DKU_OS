@@ -12,7 +12,7 @@ Virtual Machine Platform: VirtualBox 6.0
 
 Operating System: Ubuntu 16.04
 
-[Download Link](https://drive.google.com/drive/folders/1nDOef1QCtXNO49R87IVuYgpwCOdOsPK7?usp=sharing)
+[Image Download Link](https://drive.google.com/drive/folders/1nDOef1QCtXNO49R87IVuYgpwCOdOsPK7?usp=sharing)
 
 This environment is based on VirtualBox 6.0.
 If image execution is not possible, we recommend reinstalling VirtualBox 5.2 version.
