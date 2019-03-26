@@ -38,7 +38,7 @@ make
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Doumentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab1_sched.pdf)
+[Lab1 Documentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab1_sched.pdf)
 
 ## Lab2
 Will be added.
