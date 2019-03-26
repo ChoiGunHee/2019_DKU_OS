@@ -19,10 +19,23 @@ If image execution is not possible, we recommend reinstalling VirtualBox 5.2 ver
 
 [Virtual Box 5.2 Link](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
 
+## Clone Git Repository
+git clone https://github.com/ChoiGunHee/2019_DKU_OS.git
+
+If you get an error there are no commands, install git with following command :
+
+sudo apt-get install git
+
 
 ## Lab1
-Will be added.
+If you want to proceed to Lab1, go to command below :
 
+cd lab1_sched
+make
+./lab1_sched
+
+Documentation for conducting the assignment can be found at following link :
+[Lab1 Doumentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab1_sched.pdf)
 
 ## Lab2
 Will be added.
