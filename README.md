@@ -31,10 +31,13 @@ sudo apt-get install git
 If you want to proceed to Lab1, go to command below :
 
 cd lab1_sched
+
 make
+
 ./lab1_sched
 
 Documentation for conducting the assignment can be found at following link :
+
 [Lab1 Doumentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab1_sched.pdf)
 
 ## Lab2
