@@ -41,8 +41,23 @@ Documentation for conducting the assignment can be found at following link :
 [Lab1 Documentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab1_sched.pdf)
 
 ## Lab2
-Will be added.
+If you want to proceed to Lab1, go to command below :
 
+cd lab1_sync
+
+make lab2_example
+
+./lab2_example –t 4 –i 1000000 –s o
+
+./lab2_example –t 4 –i 1000000 –s m
+
+The above command is an example.
+
+See the documentation for details.
+
+Documentation for conducting the assignment can be found at following link :
+
+[Lab2 Documentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab2_sync.pdf)
 
 ## Lab3
 Will be added. 
