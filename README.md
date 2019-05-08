@@ -41,7 +41,7 @@ Documentation for conducting the assignment can be found at following link :
 [Lab1 Documentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab1_sched.pdf)
 
 ## Lab2
-If you want to proceed to Lab1, go to command below :
+If you want to proceed to Lab2, go to command below :
 
 cd lab1_sync
 
@@ -60,4 +60,24 @@ Documentation for conducting the assignment can be found at following link :
 [Lab2 Documentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab2_sync.pdf)
 
 ## Lab3
-Will be added. 
+
+If you want for proceed to Lab3, go to command below :
+cd lab3_filesystem
+
+make
+
+insmod ramdisk.ko
+
+mkdir mnt
+
+mkfs.fat -F 32 /dev/ramdisk
+
+mount /dev/ramdisk ./mnt
+
+./create.sh
+
+See the documentation for details.
+
+Documentation for conducting the assignment can be found at following link : will be add
+
+Bonus Image Link : [IMAGE_LINK](https://drive.google.com/open?id=1nDOef1QCtXNO49R87IVuYgpwCOdOsPK7)
