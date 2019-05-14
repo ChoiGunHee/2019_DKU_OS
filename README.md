@@ -78,6 +78,6 @@ mount /dev/ramdisk ./mnt
 
 See the documentation for details.
 
-Documentation for conducting the assignment can be found at following link : will be add
+[Lab3 Documentation Link](http://embedded.dankook.ac.kr/~choijm/course/201901OSI/Lab3_filesystem.pdf)
 
 Bonus Image Link : [IMAGE_LINK](https://drive.google.com/open?id=1nDOef1QCtXNO49R87IVuYgpwCOdOsPK7)
