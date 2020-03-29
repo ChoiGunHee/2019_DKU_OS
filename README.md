@@ -43,7 +43,7 @@ Documentation for conducting the assignment can be found at following link :
 ## Lab2
 If you want to proceed to Lab2, go to command below :
 
-cd lab1_sync
+cd lab2_sync
 
 make lab2_example
 
